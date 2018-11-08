@@ -1,0 +1,18 @@
+{
+  "name": "react-hooks-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SKOx0/React-Hooks-Boilerplate.git",
+  "author": "Victor Mesquita <victormesquita@brq.com>",
+  "license": "MIT",
+  "installConfig": {
+    "pnp": true
+  },
+  "dependencies": {
+    "react": "^16.7.0-alpha.0"
+  },
+  "devDependencies": {
+    "hygen": "^1.6.2",
+    "webpack": "^4.25.1"
+  }
+}
